@@ -10,7 +10,10 @@
 
 1. CSS란? : Cascading Style Sheet
 
-- 웹 꾸미기 ## inline style
+- 웹 꾸미기
+
+## inline style
+
   <div style='display:flex;'> ## style tag
   <head>
   <style>
@@ -18,9 +21,9 @@
   display:flex;
   }
   </style>
-      ## 외부 스타일시트 연결
-      1. html > head 안에 link 태그로 스타일시트 ㅇ녀결
-      2. styleFile.css 를 만들어서 스타일 작성
+## 외부 스타일시트 연결
+    1. html > head 안에 link 태그로 스타일시트 연결
+    2. styleFile.css 를 만들어서 스타일 작성
 
 #JS
 
