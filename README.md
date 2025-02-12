@@ -5,7 +5,8 @@
 - Hyper Text MArk Language
 - 웹페이지 만드는 문서
 - 웹 페이지 뼈대
-  #CSS
+
+#CSS
 
 1. CSS란? : Cascading Style Sheet
 
@@ -20,6 +21,7 @@
       ## 외부 스타일시트 연결
       1. html > head 안에 link 태그로 스타일시트 ㅇ녀결
       2. styleFile.css 를 만들어서 스타일 작성
-  #JS
 
-1. 기능 구현
+#JS
+
+1. 기능 구현 (웹개발의 90% 이상)
